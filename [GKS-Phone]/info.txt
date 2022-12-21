@@ -1,0 +1,88 @@
+ ___       _______   ________  ___  __    _______   ________          ________      ___    ___      ___           ___    ___ ___    ___ ___  ________     
+|\  \     |\  ___ \ |\   __  \|\  \|\  \ |\  ___ \ |\   ___ \        |\   __  \    |\  \  /  /|    |\  \         |\  \  /  /|\  \  /  /|\  \|\   __  \    
+\ \  \    \ \   __/|\ \  \|\  \ \  \/  /|\ \   __/|\ \  \_|\ \       \ \  \|\ /_   \ \  \/  / /    \ \  \        \ \  \/  / | \  \/  / | \  \ \  \|\  \   
+ \ \  \    \ \  \_|/_\ \   __  \ \   ___  \ \  \_|/_\ \  \ \\ \       \ \   __  \   \ \    / /      \ \  \        \ \    / / \ \    / / \ \  \ \   __  \  
+  \ \  \____\ \  \_|\ \ \  \ \  \ \  \\ \  \ \  \_|\ \ \  \_\\ \       \ \  \|\  \   \/  /  /        \ \  \____    \/  /  /   /     \/   \ \  \ \  \ \  \ 
+   \ \_______\ \_______\ \__\ \__\ \__\\ \__\ \_______\ \_______\       \ \_______\__/  / /           \ \_______\__/  / /    /  /\   \    \ \__\ \__\ \__\
+    \|_______|\|_______|\|__|\|__|\|__| \|__|\|_______|\|_______|        \|_______|\___/ /             \|_______|\___/ /    /__/ /\ __\    \|__|\|__|\|__|
+                                                                                  \|___|/                       \|___|/     |__|/ \|__|                   
+
+
+
+Dependencies:
+[[
+///Needed
+xSound (Needed)
+ESX (Needed)
+
+///Optionals
+gks_gotur (Optional)
+esx_lapraces (Optional)
+]]
+
+Instuctions: 
+[[
+Read The SQL Files Carefully And then import the SQL Files Into Your DATABASE
+ensure/start The "gksphone" And xSound /// Optionals = gks_gotur - esx_lapraces
+]]
+
+_______________________________________________________________________________
+
+Info from shop page:
+[[
+  Files you can edit:
+
+1. ServerAPI.lua
+Setting the starting number
+Bank
+Billing
+Vehicle Sales
+Vale
+RegisterCommand
+Webhooks
+
+2. ClientAPI.lua
+Valet
+In-game clock
+Weather
+RegisterCommand
+
+
+This resource supports pma-voice, mumble-voip, tokovoip and saltychat (works stably in version 2.6).
+
+We use utk_render to capture the image. Facetime works with webrtc(we don't use proxy).
+
+All the files and installation guide you need are provided to you upon purchase. You won't need anything extra.
+
+
+Hot: House App (Only works with loaf_house), Business, Moov (Rent a car) and eBay, Car Seller, Zedge (Custom wallpapers).
+
+Social Media Apps; Tinder, Instagram (have video record and comments in posts), Twitter, Yellow Pages, YouTube, 9 Gags.
+
+Messaging Apps: iMessage (including group chat and voicemail), Dark Chat, Mail.
+
+Jobs Apps: Taxi, Gotur.
+
+Main Apps: Bank, News, GPS, Stock Market, Valet, Gallery (Take photo and record video), Billing, Job Notify (notice on pd and ems), Calculator, Music, Notes.
+
+Entertainment Apps: Race, Games (Snake, BlackJack, 2048, Tetris).
+
+GKSPhone have iOS Control Center: Turn on/off weather forecast, AirDrop (phone number sharing), Brightness and Sound Level. Facetime (with webrtc), Flashlight, Flight Mod and Streamer Mod.
+
+Props: 3 different phone probes custom made by Patoche. (iPhone 12 Pro Black, Gold and Pink)
+
+Voice Supports: PmaVoice, MumbleVoip, SaltyChat (works stably in version 2.6) and TokoVoip
+
+Support  Script
+
+Codesign Garage
+Loaf Garage
+Loaf Housing
+
+
+GKSPhone is more than just a phone. It includes many social media apps, custom themes and apps, games, and more. Our phone is the best selling phone on the FiveM platform and has the largest customer network. We offering free technical and update support for years, all our customers benefit from the innovations in the phone for a single price. Remember, we only offer technical support in English.
+
+This resource is exclusive to ESX 1.1 and 1.2(Legacy).
+]]
+
+/// Remember some of the apps is cracked (Not by me)
